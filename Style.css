@@ -1,0 +1,119 @@
+/*Ajout de la police Ralewaye qui me plait beaucoup*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+/*Ajouter des images dans le fond*/
+
+*{
+    margin:0;
+    padding:0;
+    font-family: "Raleway", sans-serif;
+}
+.banner{
+    background-image: url(image/citeduVindenuit.jpeg);
+    width: 100%;
+    height: 100vh;
+    background-position: center center;
+}
+.banner-heading{
+    margin-top: 150px
+}
+.banner-btn{
+    background-color: rgb(17, 27, 27) !important;
+    border: none !important;
+    transition: 0.5s;
+    box-shadow: none !important;
+}
+.banner-btn:hover{
+    background-color: rgb(34, 150, 150) !important;
+    border: none !important;
+}
+.blog .blog-img1{
+    background-image: url(image/Musée_Aquitaine.jpg);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+.blog .blog-img2{
+    background-image: url(image/frac-maca-devanture-copyright-laurian-ghinitoiu.jpg);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+.blog .blog-img3{
+    background-image: url(image/Entrepôt_Lainé.JPG);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+.blog .blog-img4{
+    background-image: url(image/maddBordeaux-FGriffon_1.jpg);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+.blog .blog-img5{
+    background-image: url(image/Hôtel_de_Lisleferme\,_Muséum_d\'histoire_naturelle_de_Bordeaux\,_2019_-_1.jpg);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+.blog .blog-img6{
+    background-image: url(image/20220304_184322.png);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+.blog .blog-img7{
+    background-image: url(image/citeduVindenuit.jpeg);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+.blog .blog-img8{
+    background-image: url(image/Bordeaux_Larnaca_Nouveau_Stade_4.jpg);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+.blog .blog-img9{
+    background-image: url(image/palais-des-sports.jpg);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+.blog .blog-img10{
+    background-image: url(image/langfr-800px-Logo_Union_Bordeaux_Bègles_2018.png);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+.blog .blog-img11{
+    background-image: url(image/Logo_Boxers_de_Bordeaux_2014.png);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+.blog .blog-img12{
+    background-image: url(image/20200403_142026.jpeg);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+.blog .blog-img13{
+    background-image: url(image/20200403_142026.jpeg);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
